@@ -1,7 +1,7 @@
 # Site settings
 title: Escribanía | Agus Sape
 description: "Página hecha para agus."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/escribania" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
