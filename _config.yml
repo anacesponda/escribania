@@ -1,13 +1,13 @@
 # Site settings
 title: Escribanía | Agus Sape
 description: "Página hecha para agus."
-baseurl: "/escribania" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
-    hero_img: hero.jpg
+    hero_img: hero.png
     hero_title: Escribanía
     hero_description: Todo lo que se necesita de una escribanía.
 
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Club Social Rosario, Rosario, Uruguay
     address_details: svg/min/logo.svg
 
 # Social settings
